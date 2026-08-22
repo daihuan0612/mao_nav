@@ -37,8 +37,7 @@
                 <div class="drag-handle" title="拖拽排序" @click.stop>
                   ⋮⋮
                 </div>
-                <span class="category-icon" @click.stop="editCategory(category)">
-                  {{ category.icon }}
+                <span class="category-icon" @click.stop="editCategory(category)" v-html="getCategorySvg(category.icon)">
                 </span>
                 <div class="category-details">
                   <h3 @click.stop="editCategory(category)">{{ category.name }}</h3>
@@ -143,6 +142,7 @@
 <script setup>
 import { ref, watch } from 'vue'
 import draggable from 'vuedraggable'
+import { getCategorySvg } from '@/utils/svgIcons.js'
 
 const props = defineProps({
   categories: {
@@ -173,8 +173,7 @@ const formData = ref({
 
 // Emoji建议
 const emojiSuggestions = [
-  '📁', '🛠️', '🎨', '📚', '👥', '⚙️', '🎮', '💼',
-  '☁️', '🔧', '📊', '🎵', '📱', '💻', '🌐', '🔍'
+  '💥', '⭐', '🌐'
 ]
 
 // 监听props变化

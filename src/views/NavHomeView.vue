@@ -47,7 +47,7 @@
             :class="{ active: activeCategory === category.id }"
             @click="scrollToCategory(category.id)"
           >
-            <span class="category-icon">{{ category.icon }}</span>
+            <span class="category-icon" v-html="getCategorySvg(category.icon)"></span>
             <span class="category-name">{{ category.name }}</span>
           </li>
         </ul>
@@ -111,7 +111,7 @@
               :class="{ active: activeCategory === category.id }"
               @click="scrollToCategoryMobile(category.id)"
             >
-              <span class="category-icon">{{ category.icon }}</span>
+              <span class="category-icon" v-html="getCategorySvg(category.icon)"></span>
               <span class="category-name">{{ category.name }}</span>
             </li>
           </ul>
@@ -144,7 +144,7 @@
             :id="`category-${category.id}`"
           >
             <h2 class="category-title">
-              <span class="category-icon">{{ category.icon }}</span>
+              <span class="category-icon" v-html="getCategorySvg(category.icon)"></span>
               <span class="category-name">{{ category.name }}</span>
             </h2>
 
@@ -206,6 +206,7 @@
 import { ref, onMounted, onUnmounted } from 'vue'
 import { useNavigation } from '@/apis/useNavigation.js'
 import { useThemeStore } from '@/stores/counter.js'
+import { getCategorySvg } from '@/utils/svgIcons.js'
 // 导入搜索引擎logo图片
 import googleLogo from '@/assets/goolge.png'
 import baiduLogo from '@/assets/baidu.png'
