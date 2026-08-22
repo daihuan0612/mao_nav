@@ -62,11 +62,11 @@
           <div class="search-engine-selector">
             <img :src="searchEngines[selectedEngine].icon" :alt="selectedEngine" class="engine-logo" />
             <select v-model="selectedEngine" class="engine-select">
-              <option value="google">Google</option>
-              <option value="baidu">Baidu</option>
               <option value="bing">Bing</option>
-              <option value="duckduckgo">DuckDuckGo</option>
+              <option value="baidu">Baidu</option>
+              <option value="google">Google</option>
               <option value="yandex">Yandex</option>
+              <option value="duckduckgo">DuckDuckGo</option>
             </select>
           </div>
           <input
