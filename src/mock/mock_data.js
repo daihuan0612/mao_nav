@@ -593,6 +593,13 @@ export const mockData = {
           "url": "https://huangguoai.com/",
           "description": "黄果AI短剧",
           "icon": "https://www.faviconextractor.com/favicon/huangguoai.com"
+        },
+        {
+          "id": "site-1787416485470",
+          "name": "ZIP0",
+          "url": "https://zip0.com/",
+          "description": "影视、电视、广播、游戏都可以",
+          "icon": "https://www.faviconextractor.com/favicon/zip0.com"
         }
       ]
     }
