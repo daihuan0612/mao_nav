@@ -77,13 +77,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/lbc.cc.cd"
         },
         {
-          "id": "site-1783136566734",
-          "name": "小苹果IPTV源",
-          "url": "https://iptv.limei.cc.cd/live.m3u",
-          "description": "小苹果IPTV源，支持1080P",
-          "icon": ""
-        },
-        {
           "id": "linux-do",
           "name": "API自动采集",
           "url": "https://xfl.de5.net/",
