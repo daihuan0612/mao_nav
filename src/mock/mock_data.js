@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://www.nexttun.net/#top",
           "description": "TunNet免费VPN",
           "icon": "https://www.faviconextractor.com/favicon/www.nexttun.net"
+        },
+        {
+          "id": "site-1787990924088",
+          "name": "防失联VPN",
+          "url": "https://freesocks.org/get-account",
+          "description": "freesocks免费VPN验证码：90761789389281087282548073301544",
+          "icon": "https://www.faviconextractor.com/favicon/freesocks.org"
         }
       ]
     },
