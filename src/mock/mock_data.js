@@ -600,6 +600,13 @@ export const mockData = {
           "url": "https://zip0.com/",
           "description": "影视、电视、广播、游戏都可以",
           "icon": "https://www.faviconextractor.com/favicon/zip0.com"
+        },
+        {
+          "id": "site-1787991036917",
+          "name": "IPTV酒店组播源",
+          "url": "https://qq1000com.github.io/jiudianyhuan00/itvlist.txt",
+          "description": "IPTV酒店组播源",
+          "icon": "https://www.faviconextractor.com/favicon/qq1000com.github.io"
         }
       ]
     }
