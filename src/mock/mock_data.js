@@ -607,6 +607,13 @@ export const mockData = {
           "url": "https://qq1000com.github.io/jiudianyhuan00/itvlist.txt",
           "description": "IPTV酒店组播源",
           "icon": "https://www.faviconextractor.com/favicon/qq1000com.github.io"
+        },
+        {
+          "id": "site-1788070103304",
+          "name": "黄果短剧",
+          "url": "https://huangguoai.com/",
+          "description": "黄果短剧",
+          "icon": "https://www.faviconextractor.com/favicon/huangguoai.com"
         }
       ]
     }
