@@ -302,6 +302,13 @@ export const mockData = {
           "url": "https://aistudio.google.com/u/0/rate-limit?timeRange=last-1-day",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/aistudio.google.com"
+        },
+        {
+          "id": "site-1788096479756",
+          "name": "gemini3.5浏览器语音实时翻译",
+          "url": "https://aistudio.google.com/app/live?model=gemini-3.5-live-translate-preview&project=gen-lang-client-0528636374",
+          "description": "gemini3.5浏览器语音实时翻译",
+          "icon": "https://www.faviconextractor.com/favicon/aistudio.google.com"
         }
       ]
     },
