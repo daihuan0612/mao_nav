@@ -623,6 +623,35 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/huangguoai.com"
         }
       ]
+    },
+    {
+      "id": "category-1788240870450",
+      "icon": "📁",
+      "name": "免费API",
+      "order": 8,
+      "sites": [
+        {
+          "id": "site-1788240916376",
+          "name": "夏柔免费API",
+          "url": "https://api.aa1.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.aa1.cn"
+        },
+        {
+          "id": "site-1788241018929",
+          "name": "山河免费API",
+          "url": "https://api.shanhe.kim/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.shanhe.kim"
+        },
+        {
+          "id": "site-1788241166167",
+          "name": "看戏仔免费API",
+          "url": "https://api.bugpk.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.bugpk.com"
+        }
+      ]
     }
   ],
   "title": "小苹果导航",
