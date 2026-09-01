@@ -664,6 +664,13 @@ export const mockData = {
           "url": "https://api.istero.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/api.istero.com"
+        },
+        {
+          "id": "site-1788251665159",
+          "name": "倾梦API",
+          "url": "https://api.317ak.com/",
+          "description": "",
+          "icon": "/sitelogo/api.317ak.com.ico"
         }
       ]
     }
