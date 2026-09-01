@@ -631,6 +631,13 @@ export const mockData = {
       "order": 8,
       "sites": [
         {
+          "id": "site-1788241697535",
+          "name": "妖狐API",
+          "url": "https://api.yaohud.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.yaohud.cn"
+        },
+        {
           "id": "site-1788240916376",
           "name": "夏柔免费API",
           "url": "https://api.aa1.cn/",
