@@ -657,6 +657,13 @@ export const mockData = {
           "url": "https://api.bugpk.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/api.bugpk.com"
+        },
+        {
+          "id": "site-1788248613249",
+          "name": "api.istero",
+          "url": "https://api.istero.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/api.istero.com"
         }
       ]
     }
