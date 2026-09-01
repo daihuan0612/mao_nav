@@ -245,13 +245,6 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "https://api.starlink.fan/index.php",
           "icon": "https://www.faviconextractor.com/favicon/www.pasyun.com"
-        },
-        {
-          "id": "site-1781068849584",
-          "name": "妖狐api",
-          "url": "https://api.yaohud.cn/",
-          "description": "妖狐api，各种api聚合",
-          "icon": "https://www.faviconextractor.com/favicon/api.yaohud.cn"
         }
       ]
     },
