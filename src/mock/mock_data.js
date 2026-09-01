@@ -70,6 +70,13 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/bbs.xfl.cc.cd"
         },
         {
+          "id": "site-1788247094427",
+          "name": "随机小姐姐",
+          "url": "https://xjj.xpg.us.ci/",
+          "description": "抖音快手随机小姐姐",
+          "icon": "https://www.faviconextractor.com/favicon/xjj.xpg.us.ci"
+        },
+        {
           "id": "site-1780754493544",
           "name": "X Bonus Hub",
           "url": "https://lbc.cc.cd",
@@ -96,13 +103,6 @@ export const mockData = {
           "url": "https://ech.dyq.de5.net/admin",
           "description": "edgetunnel",
           "icon": "https://www.faviconextractor.com/favicon/tv.siyou.qzz.io"
-        },
-        {
-          "id": "site-1788247094427",
-          "name": "随机小姐姐",
-          "url": "https://xjj.xpg.us.ci/",
-          "description": "抖音快手随机小姐姐",
-          "icon": "https://www.faviconextractor.com/favicon/xjj.xpg.us.ci"
         }
       ]
     },
