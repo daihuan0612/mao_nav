@@ -114,7 +114,7 @@ export const mockData = {
         {
           "id": "site-1788331195644",
           "name": "CFBox节点",
-          "url": "https://tz.xpg.us.ci/8c145c3c-29a4-4956-989f-30200f60eb20",
+          "url": "https://tz.xpg.us.ci/dingyue",
           "description": "8c145c3c-29a4-4956-989f-30200f60eb20",
           "icon": ""
         }
