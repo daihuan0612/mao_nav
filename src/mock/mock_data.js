@@ -514,6 +514,13 @@ export const mockData = {
           "url": "https://www.aichunjing.com/",
           "description": "纯净win系统下载",
           "icon": ""
+        },
+        {
+          "id": "site-1788345992832",
+          "name": "游戏基地",
+          "url": "https://jidiyouxi.com/",
+          "description": "免费单机游戏下载",
+          "icon": "https://www.faviconextractor.com/favicon/jidiyouxi.com"
         }
       ]
     },
