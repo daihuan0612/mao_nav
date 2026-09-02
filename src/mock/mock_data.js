@@ -103,6 +103,13 @@ export const mockData = {
           "url": "https://ech.dyq.de5.net/admin",
           "description": "edgetunnel",
           "icon": "https://www.faviconextractor.com/favicon/tv.siyou.qzz.io"
+        },
+        {
+          "id": "site-1788321696051",
+          "name": "通用反代",
+          "url": "https://fd.xpg.us.ci/",
+          "description": "小站点通用反代",
+          "icon": ""
         }
       ]
     },
