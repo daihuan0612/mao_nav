@@ -687,6 +687,49 @@ export const mockData = {
           "icon": "/sitelogo/api.317ak.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1788423079060",
+      "icon": "📁",
+      "name": "小说阅读",
+      "order": 9,
+      "sites": [
+        {
+          "id": "site-1788423120282",
+          "name": "爱丽丝书屋",
+          "url": "https://www.alicesw.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.alicesw.com"
+        },
+        {
+          "id": "site-1788423143041",
+          "name": "夜读小说",
+          "url": "https://x-novel.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/x-novel.com"
+        },
+        {
+          "id": "site-1788423454645",
+          "name": "八叉书库",
+          "url": "https://bcshuku.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bcshuku.com"
+        },
+        {
+          "id": "site-1788423597276",
+          "name": "露露书",
+          "url": "https://www.lulushu123.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.lulushu123.net"
+        },
+        {
+          "id": "site-1788423635226",
+          "name": "夜书院",
+          "url": "https://www.yeshuyuan.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.yeshuyuan.com"
+        }
+      ]
     }
   ],
   "title": "小苹果导航",
