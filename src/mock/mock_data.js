@@ -728,6 +728,13 @@ export const mockData = {
           "url": "https://www.yeshuyuan.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.yeshuyuan.com"
+        },
+        {
+          "id": "site-1788423723329",
+          "name": "龙腾小说",
+          "url": "https://www.87nb.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.87nb.com"
         }
       ]
     }
