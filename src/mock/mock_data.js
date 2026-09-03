@@ -252,6 +252,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "https://api.starlink.fan/index.php",
           "icon": "https://www.faviconextractor.com/favicon/www.pasyun.com"
+        },
+        {
+          "id": "site-1788419365888",
+          "name": "免费服务器",
+          "url": "https://web.aeonfree.com/dashboard/mseet_42820088/viewaccount",
+          "description": "rinip",
+          "icon": "https://www.faviconextractor.com/favicon/web.aeonfree.com"
         }
       ]
     },
