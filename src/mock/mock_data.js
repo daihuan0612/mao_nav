@@ -115,9 +115,9 @@ export const mockData = {
         {
           "id": "copilot",
           "name": "IP纯净度检测",
-          "url": "https://iplark.com/",
-          "description": "AI代码助手",
-          "icon": "https://www.faviconextractor.com/favicon/iplark.com"
+          "url": "https://ippure.com/",
+          "description": "IP纯净度检测",
+          "icon": "https://www.faviconextractor.com/favicon/ippure.com"
         },
         {
           "id": "midjourney",
