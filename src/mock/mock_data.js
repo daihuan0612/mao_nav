@@ -202,6 +202,13 @@ export const mockData = {
           "url": "https://freesocks.org/get-account",
           "description": "freesocks免费VPN验证码：90761789389281087282548073301544",
           "icon": "https://www.faviconextractor.com/favicon/freesocks.org"
+        },
+        {
+          "id": "site-1788614976704",
+          "name": "clashmi代理软件",
+          "url": "https://clashmi.app/",
+          "description": "clashmi代理软件",
+          "icon": "https://www.faviconextractor.com/favicon/clashmi.app"
         }
       ]
     },
