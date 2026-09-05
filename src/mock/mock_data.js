@@ -259,6 +259,13 @@ export const mockData = {
           "url": "https://web.aeonfree.com/dashboard/mseet_42820088/viewaccount",
           "description": "rinip",
           "icon": "https://www.faviconextractor.com/favicon/web.aeonfree.com"
+        },
+        {
+          "id": "site-1788578563134",
+          "name": "免费API",
+          "url": "https://api.justwoker.icu/dashboard/overview",
+          "description": "claude-opus-5-thinking模型",
+          "icon": "https://www.faviconextractor.com/favicon/api.justwoker.icu"
         }
       ]
     },
